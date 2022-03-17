@@ -1,0 +1,7 @@
+numpy
+pandas
+pickle-mixin
+matplotlib
+nltk
+gensim==3.8.3
+jupyterlab
